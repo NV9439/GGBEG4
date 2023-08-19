@@ -19,7 +19,7 @@ while wait() do
 		Ch(14298225459,14298225459)
 	elseif code.Value == "ggb" then
 		Ch(14298197163,14298197163)	
-		Ch(14298225459,14298225459)	
+		Ch(14298259885,14298259885)	
 	elseif code.Value == "hire" then
 		Ch(14298264539,14298264539)	
 	elseif code.Value == "bk" then
@@ -107,6 +107,9 @@ while wait() do
 	elseif code.Value == "mann" then
 		Ch(14298560417,14298560417)	
 		Ch(14298562894,14298562894)	
+		Ch(14298565743,14298565743)	
+	elseif code.Value == "maa" then
+		Ch(14298560417,14298560417)	
 		Ch(14298565743,14298565743)	
 	elseif code.Value == "adl" then
 		Ch(14331288293,14331288293)	
